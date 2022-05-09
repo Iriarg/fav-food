@@ -1,0 +1,41 @@
+body {
+    margin: 3em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: #333 url("https://i.pinimg.com/originals/73/92/df/7392dff05a946f7f6bdbcd48dfc20755.jpg");
+    background-size: cover;
+    color: #fff;
+    font-size: 1.1em;
+    line-height: 1.5;
+}
+
+h1 {
+    text-align: left;
+    padding-top: 15px;
+    padding-bottom: 0;
+    font-size: 50px;
+    font-variant: small-caps;
+    text-shadow: 7px 4px 5px rgb(66, 66, 66);
+}
+
+.image{
+    text-align: left;
+}
+
+.foto1 {
+    width: 600px;
+}
+
+section {
+    margin-left: 0em;
+    margin-right: 30em;
+    margin-top: 0em;
+}
+
+p {
+    margin: 0;
+    padding-top: 0;
+}
+
+span {
+    font-weight: bold;
+}
