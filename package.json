@@ -1,0 +1,20 @@
+{
+  "name": "comida-fav",
+  "version": "1.0.0",
+  "description": "fav food",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass-w": "sass --watch src/sass:public/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Iriarg/fav-food.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Iriarg/fav-food/issues"
+  },
+  "homepage": "https://github.com/Iriarg/fav-food#readme"
+}
